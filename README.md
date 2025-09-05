@@ -12,4 +12,4 @@ EduStream is a React-based web platform for interactive online courses. Features
 - Styling: Tailwind CSS (dark mode)
 - State: React useState & useEffect
 - Persistence: LocalStorage
-- 
+  
